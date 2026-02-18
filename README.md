@@ -27,7 +27,7 @@ Atualmente aprofundando conhecimentos em desenvolvimento web e lógica com foco 
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=lilikasyn&show_icons=true&theme+synthwave"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=lilikasyn&show_icons=true&theme=radical"/>
 </div>
 
 ---
