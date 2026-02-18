@@ -1,24 +1,65 @@
-## 👋 Olá!
-Eu gosto muito de programação e estou aprendendo um passo a cada dia e evoluindo meus projetos!
+# 👩‍💻 Rafaela | lilikasync
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilikasyn&title_color=f9829b&text_color=fff&icon_color=fff&bg_color=181818" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lilikasyn&show_icons=true&title_color=f9829b&text_color=fff&icon_color=f9829b&bg_color=181818" />
+<p align="center">
+  Desenvolvedora em formação apaixonada por tecnologia e criação de soluções através do código.
+</p>
+
+---
+
+## 🚀 Sobre mim
+
+Sou estudante de programação focada em desenvolvimento moderno, sempre evoluindo através de projetos práticos e aprendizado contínuo.
+
+Atualmente aprofundando conhecimentos em desenvolvimento web e lógica com foco em boas práticas e código limpo.
+
+---
+
+## 🛠 Tecnologias
+
+<div align="center">
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
 
+---
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+## 📊 Estatísticas
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lilikasync&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilikasync&layout=compact&theme=radical&hide_border=true"/>
 </div>
-  
-  ##
- 
-<div> 
-  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+---
+
+## 📌 Projetos em Destaque
+
+- 🔹 Em breve: Projetos completos focados em aplicações web
+- 🔹 Em breve: Projetos utilizando TypeScript
+- 🔹 Em breve: Projetos com Python
+
+*(Atualize essa seção com links dos seus melhores repositórios)*
+
+---
+
+## 📫 Contato
+
+<div align="center">
+  <a href="mailto:seuemail@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/seulink" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </div>
+
+---
+
+<p align="center">
+  ✨ "Transformando ideias em código todos os dias."
+</p>
+
 
 <br>
 
