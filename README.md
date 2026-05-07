@@ -24,19 +24,7 @@
 
 ---
 
-# 🎀 Olá, eu sou a [Seu Nome]!
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=%20&fontSize=90" width="100%" />
-</p>
-
 <img align="right" alt="anime-girl" width="230" src="https://iili.io/BtKXcMv.gif"/>
-
-### 💜 Desenvolvedora Back-end & Automações
-Focada em construir **APIs escaláveis**, **bots inteligentes** e fluxos de **automação** de alta performance. 
-
-* ☕ Café, heavy metal e código correm nas minhas veias.
-* ✨ Sempre explorando novas tecnologias e contribuindo para o ecossistema open source.
 
 ---
 
