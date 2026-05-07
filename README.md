@@ -39,7 +39,7 @@ const bia = {
   passions: ["Anime", "Heavy Metal", "Coffee"],
   currentlyLearning: ["Software Architecture", "Scalability"]
 }
-
+```
 💜 Desenvolvendo bots e aplicações escaláveis com foco em performance e arquitetura limpa.
 
 ☕ Transformando café e música pesada em código desde cedo.
@@ -67,5 +67,3 @@ const bia = {
 <div align="center">💜 Code • Coffee • Metal • Repeat
 
 </div>
-
-```
