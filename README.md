@@ -31,6 +31,7 @@
 </p>
 
 ```ts
+
 const bia = {
   age: 19,
   languages: ["TypeScript", "JavaScript", "Python"],
@@ -66,4 +67,5 @@ const bia = {
 <div align="center">💜 Code • Coffee • Metal • Repeat
 
 </div>
+
 ```
