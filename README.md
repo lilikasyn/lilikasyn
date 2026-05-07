@@ -26,65 +26,22 @@
 
 # 🎀 Sobre Mim
 
-```
-const bia = {
-  code: ["JavaScript", "TypeScript", "Python"],
-  tools: ["Node.js", "Fastify", "Express", "Docker"],
-  database: ["MongoDB", "PostgreSQL"],
-  passions: ["Bots", "Automation", "Open Source"],
-  music: ["Metal", "J-Rock", "Lo-fi"],
-  currentFocus: "Escalable APIs & Intelligent Systems"
-}
+<img align="right" alt="anime-girl" width="230" src="https://media.tenor.com/x8v1oNUOmg4AAAAd/anime-computer.gif"/>
 
-<img align="right" alt="anime-girl" width="240" src="https://media.tenor.com/x8v1oNUOmg4AAAAd/anime-computer.gif"/>🌸 Desenvolvedora apaixonada por criar
-bots inteligentes e APIs performáticas.
+💜 Desenvolvedora focada em criar APIs escaláveis, bots inteligentes e automações.
 
-💜 Atualmente estudando:
-
+🌸 Atualmente estudando:
+- TypeScript
 - Arquitetura de Software
-- TypeScript avançado
-- SQL/NoSQL
+- SQL & NoSQL
 - Microsserviços
 
-☕ Transformando café + heavy metal em código desde sempre.
+🛠 Tecnologias favoritas:
+- Node.js
+- Fastify
+- Express
+- Python
 
----
+☕ Café, heavy metal e código fazem parte da rotina.
 
-🛠 Tech Stack
-
-<div align="center"><img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,fastapi,express,mongodb,postgres,docker,git,linux,vscode&theme=dark" /></div>---
-
-📊 GitHub Stats
-
-<div align="center"><img height="170em" src="https://github-readme-stats.vercel.app/api?username=lilikasyn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=cba6f7&icon_color=f38ba8&text_color=ffffff"/><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilikasyn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=cba6f7&text_color=ffffff"/><img src="https://streak-stats.demolab.com?user=lilikasyn&theme=tokyonight&hide_border=true&background=0D1117&ring=CBA6F7&fire=F38BA8&currStreakLabel=FFFFFF"/></div>---
-
-🏆 GitHub Trophies
-
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=lilikasyn&theme=discord&no-frame=true&margin-w=10&margin-h=10"/></div>---
-
-🌙 Atualmente ouvindo
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31tmz2jwh6jzx4xj6z7z5jv7xjly&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true"/></div>---
-
-📌 Featured Projects
-
-<div align="center"><a href="https://github.com/lilikasyn">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lilikasyn&repo=SEU_REPO&theme=tokyonight&hide_border=true"/>
-</a><a href="https://github.com/lilikasyn">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lilikasyn&repo=SEU_REPO2&theme=tokyonight&hide_border=true"/>
-</a></div>---
-
-🌐 Socials
-
-<div align="center"><a href="https://discord.com">
-<img src="https://img.shields.io/badge/Discord-2b2d42?style=for-the-badge&logo=discord&logoColor=cba6f7"/>
-</a><a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a><a href="mailto:youremail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a></div>---
-
-<div align="center">💜 “Code. Coffee. Chaos. Repeat.” 💜
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff79c6,100:cba6f7&height=120&section=footer"/></div>
-```
+✨ Sempre explorando novas tecnologias e criando projetos open source.
