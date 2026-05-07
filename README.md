@@ -26,8 +26,11 @@
 
 ## 🌸 Sobre Mim
 
-<img align="right" width="230" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
+<table>
+<tr>
+<td width="60%">
 
+```ts
 const bia = {
   age: 19,
   languages: ["TypeScript", "JavaScript", "Python"],
@@ -42,24 +45,7 @@ const bia = {
 
 🚀 Sempre explorando novas tecnologias e criando experiências divertidas na web.
 
-<br clear="right"/>---
-
-🛠 Stack Tecnológica
-
-<p align="center"><img src="https://skillicons.dev/icons?i=ts,js,nodejs,python,fastapi,express,mongodb,postgres,docker,kubernetes,git,linux&theme=dark" /></p>---
-
-📊 Estatísticas
-
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=lilikasyn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilikasyn&layout=compact&langs_count=8&theme=dracula"/></p>---
-
-🌐 Contato
-
-<p align="center"><a href="mailto:seuemail@exemplo.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a><a href="https://linkedin.com/in/seu-perfil">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a></p>---
-
-<div align="center">💜 “Code. Coffee. Metal. Repeat.”
-
+</td><td width="40%"><img src="https://iili.io/BtKXcMv.gif" width="100%"/></td>
+</tr>
+</table>
 </div>
