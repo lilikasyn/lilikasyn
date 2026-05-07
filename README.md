@@ -24,24 +24,54 @@
 
 ---
 
-# 🎀 Sobre Mim
+# 🎀 Olá, eu sou a [Seu Nome]!
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=%20&fontSize=90" width="100%" />
+</p>
 
 <img align="right" alt="anime-girl" width="230" src="https://iili.io/BtKXcMv.gif"/>
 
-💜 Desenvolvedora focada em criar APIs escaláveis, bots inteligentes e automações.
+### 💜 Desenvolvedora Back-end & Automações
+Focada em construir **APIs escaláveis**, **bots inteligentes** e fluxos de **automação** de alta performance. 
 
-🌸 Atualmente estudando:
-- TypeScript
-- Arquitetura de Software
-- SQL & NoSQL
-- Microsserviços
+* ☕ Café, heavy metal e código correm nas minhas veias.
+* ✨ Sempre explorando novas tecnologias e contribuindo para o ecossistema open source.
 
-🛠 Tecnologias favoritas:
-- Node.js
-- Fastify
-- Express
-- Python
+---
 
-☕ Café, heavy metal e código fazem parte da rotina.
+### 🌸 Atualmente focado em
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Software%20Architecture-444?style=for-the-badge&logo=structure&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20&%20NoSQL-444?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-FF6F61?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</p>
 
-✨ Sempre explorando novas tecnologias e criando projetos open source.
+---
+
+### 🛠 Stack Tecnológica
+| Linguagens | Frameworks | Bancos & Ferramentas |
+| :--- | :--- | :--- |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+
+---
+
+### 📊 Estatísticas
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=dracula"/>
+</p>
+
+---
+
+<p align="center">
+  <a href="mailto:seuemail@exemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/seu-perfil">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
