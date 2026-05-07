@@ -1,4 +1,4 @@
-# 👩‍💻 Rafaela | lilikasync
+# 👩‍💻 Bia | lilikasync
 
 <p align="center">
   Desenvolvedora em formação apaixonada por tecnologia e criação de soluções através do código.
