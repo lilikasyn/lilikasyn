@@ -26,7 +26,7 @@
 
 # 🎀 Sobre Mim
 
-<img align="right" alt="anime-girl" width="230" src="https://media.tenor.com/x8v1oNUOmg4AAAAd/anime-computer.gif"/>
+<img align="right" alt="anime-girl" width="230" src="https://iili.io/BtKXcMv.gif"/>
 
 💜 Desenvolvedora focada em criar APIs escaláveis, bots inteligentes e automações.
 
